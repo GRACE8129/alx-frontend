@@ -393,11 +393,6 @@ End of normalized.css
 /*--------section margin and color----------*/
     --section-title-margin: 0;
     --section-title-color: var(--color-black);
-}
-
-
-*, *::before, *::after {
-    box-sizing: border-box;
 
 
 /*----------padding---------*/
@@ -407,6 +402,11 @@ End of normalized.css
     --section-footer-padding: 3rem 0 0;
     --section-footer-align: center;
     --footer-padding: 5rem 0 1rem;
+}
+
+
+*, *::before, *::after {
+    box-sizing: border-box;
 }
 
 
