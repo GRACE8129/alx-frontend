@@ -12,12 +12,12 @@ html {
 }
 
 
-body{
+body {
     color: var(--text-color);
 }
 
 
-a{
+a {
     color: var(--text-color);
 }
 
@@ -26,11 +26,11 @@ a{
     display: none;
 }
 
-.section-tagline{
+.section-tagline {
     color: var(--color-primary);
 }
 
 
-.card-category{
+.card-category {
     color: var(--color-primary);
 }
